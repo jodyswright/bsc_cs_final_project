@@ -1,3 +1,4 @@
 ecg.*/
 data/
 .DS_Store
+*.npy
