@@ -2,3 +2,4 @@ ecg.*/
 data/
 .DS_Store
 *.npy
+*checkpoint.ipynb
