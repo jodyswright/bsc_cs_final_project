@@ -2,5 +2,10 @@ ecg.*/
 data/
 .DS_Store
 *.npy
+<<<<<<< HEAD
 /results
 *checkpoint.ipynb
+=======
+*checkpoint.ipynb
+trash
+>>>>>>> df58cba95f3189ce9299d018ceeda0dedc785031
