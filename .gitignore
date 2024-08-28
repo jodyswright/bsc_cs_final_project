@@ -1,5 +1,5 @@
 ecg.*/
 .DS_Store
 *.npy
+/results
 *checkpoint.ipynb
-trash
