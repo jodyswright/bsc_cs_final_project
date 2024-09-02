@@ -3,3 +3,5 @@ ecg.*/
 *.npy
 /results
 *checkpoint.ipynb
+/models
+/weights
